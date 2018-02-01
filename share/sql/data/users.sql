@@ -1,0 +1,6 @@
+INSERT INTO `users` (`firstname`,`lastname`,`email`,`phone`,`based-location`,`current-location`,`yearly-spending`) VALUES ("Camilla","Donati","ridiculus.mus.Proin@Quisquepurus.co.uk","(815) 195-5424","Los Angeles","Paris","3000");
+INSERT INTO `users` (`firstname`,`lastname`,`email`,`phone`,`based-location`,`current-location`,`yearly-spending`) VALUES ("Erica","Ferraro","dui.quis@sollicitudinorcisem.com","(574) 384-5826","Los Angeles","Paris","3000");
+INSERT INTO `users` (`firstname`,`lastname`,`email`,`phone`,`based-location`,`current-location`,`yearly-spending`) VALUES ("Dario","Marchetti","pede.nec@lacusvestibulumlorem.edu","(950) 737-5317","Los Angeles","Paris","3000");
+INSERT INTO `users` (`firstname`,`lastname`,`email`,`phone`,`based-location`,`current-location`,`yearly-spending`) VALUES ("Camilla","Coppola","diam.eu@mauris.edu","(671) 299-6391","Los Angeles","Paris","3000");
+INSERT INTO `users` (`firstname`,`lastname`,`email`,`phone`,`based-location`,`current-location`,`yearly-spending`) VALUES ("Elisa","Gatti","arcu@Nulla.net","(441) 370-5344","Los Angeles","Paris","3000");
+INSERT INTO `users` (`firstname`,`lastname`,`email`,`phone`,`based-location`,`current-location`,`yearly-spending`) VALUES ("Francesco","Ferrari","ornare.libero.at@fermentumrisusat.edu","(750) 440-7845","Los Angeles","Paris","3000");
